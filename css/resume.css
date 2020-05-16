@@ -174,3 +174,27 @@ a {
 a:hover, a:focus, a:active {
   color: #274782;
 }
+
+.Alura {
+  color:#2A7AE4;
+  font-weight: bold;
+}
+
+.Devmedia {
+  color: #7BAC3B;
+  font-weight: bold;
+}
+
+.Udemy {
+  color: #EA5252;
+  font-weight: bold;
+}
+
+.Rocket {
+  color:#7159C1;
+  font-weight: bold;
+}
+
+.Alura:hover, .Devmedia:hover, .Udemy:hover, .Rocket:hover{
+  text-decoration: none;
+}
