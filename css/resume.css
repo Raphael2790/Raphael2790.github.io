@@ -152,6 +152,10 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+section.resume-section ul li {
+  margin: 5px 0;
+}
+
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 3rem !important;
